@@ -1,5 +1,6 @@
 **Excel Report: AtliQ Hardware Sales & Finance Analysis**
- In this project, I created reports in Excel for AtliQ Hardware's finance and sales departments to assist both teams in making crucial decisions for expanding their business and enhancing their market presence globally.
+
+In this project, I created reports in Excel for AtliQ Hardware's finance and sales departments to assist both teams in making crucial decisions for expanding their business and enhancing their market presence globally.
 
 **Finance Report 📊**
 
@@ -11,9 +12,11 @@ I prepared a Profit & Loss statement, including:
 
 These metrics were calculated for a particular fiscal year, as well as specific months and quarters.
 
+
 **Sales Report 📈**
 
 I prepared the Customer Performance Report and Market Performance Report, focusing on specific regions, divisions, and countries.
+
 
 **Tasks Performed ✅**
 
@@ -27,9 +30,11 @@ I prepared the Customer Performance Report and Market Performance Report, focusi
 
 🧮 DAX Functions: Used Data Analysis Expressions (DAX) functions like SUM, DIVIDE, RELATED, CALCULATE, SUMX, and DISTINCT to calculate appropriate measures and columns.
 
+
 **Domain Knowledge 📚**
 
 Learned about finance and sales domain knowledge, such as Profit & Loss Statements.
+
 
 **Insights Gained 📘** 
 
@@ -44,6 +49,7 @@ Learned about finance and sales domain knowledge, such as Profit & Loss Statemen
 🌟 Sales and Financial Analytics: I explored Excel’s capabilities in both sales and financial analysis, allowing me to track performance, identify trends, and generate insightful reports for informed decision-making.
 
 🌟 Real-time Business Application Expertise: I applied Excel in real-world business scenarios, including creating a Project Priority Matrix for efficient project management and conducting Scenario Planning to analyze potential outcomes based on various assumptions.
+
 
 **Acknowledgments 📣** 
 
