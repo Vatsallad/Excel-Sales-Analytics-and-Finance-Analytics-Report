@@ -9,6 +9,7 @@ I prepared a Profit & Loss statement, including:
 - Cost of Goods Sold (COGS)
 - Gross Margin (GM)
 - GM %
+
 These metrics were calculated for a particular fiscal year, as well as specific months and quarters.
 
 Sales Report 📈
