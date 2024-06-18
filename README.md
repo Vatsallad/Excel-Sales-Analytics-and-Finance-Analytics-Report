@@ -53,4 +53,7 @@ AtliQ Hardware, a leading supplier of computer hardware and peripherals globally
 - Business Insights
 - Data-Driven Decision Making
 
+👏 Acknowledgments: 
+
+This project was part of the Data Analytics Bootcamp, "Excel - The Mother of Business Intelligence," led by Dhaval Patel and Hemanand Vadivel. Special thanks to them and the Codebasics team for their support and excellent content.
  
