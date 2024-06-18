@@ -42,16 +42,15 @@ AtliQ Hardware, a leading supplier of computer hardware and peripherals globally
 - Microsoft Excel
 - Power Query for data cleaning and transformation
 - Power Pivot for data modeling
- -Pivot Tables for data summarization
-• DAX Measures for calculated columns
-• Conditional Formatting to highlight key data points
+- Pivot Tables for data summarization
+- DAX Measures for calculated columns
+- Conditional Formatting to highlight key data points
 
 📚 Knowledge Gained:
-• Data Cleaning
-• Data Representation
-• Business Domain Knowledge
-• Business Insights
-• Data-Driven Decision Making
+- Data Cleaning
+- Data Representation
+- Business Domain Knowledge
+- Business Insights
+- Data-Driven Decision Making
 
-👏 Acknowledgments: 
-This project was part of the Data Analytics Bootcamp, "Excel - The Mother of Business Intelligence," led by Dhaval Patel sir and Hemanand Vadivel sir. Special thanks to them and the Codebasics team for their support and excellent content.
+ 
