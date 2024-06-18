@@ -1,57 +1,31 @@
 **Excel Project : AtliQ Hardware Sales & Finance Analysis** 
 
-🔍 Project Overview:
+In this project I work on creating reports in excel for AtliQ Hardware's finance and sales department which can help both the teams in taking crucial decisions in order to expand there business and make an impactable market presence around the globe.
 
-AtliQ Hardware, a leading supplier of computer hardware and peripherals globally, tasked me with creating sales and financial reports to evaluate their market performance for 2019, 2020, and 2021. Here's what I accomplished:
+In finance report I have prepare the Profit & Loss statement including Net Sales, Cost of Goods Sold (COGS), Gross Margin (GM) and GM % for a particular fiscal year and also for a particular month and quarter. In sales report I have prepare the Customer Performance Report and Market Performance Report for a particular region, division and country.
 
-📈 Sales Analytics Highlights:
+Task Performed
 
-1. Total Sales Comparison (2019-2021):
- Unveiling the growth trajectory by dissecting total sales in 2019, 2020, and 2021.
+Import the datasets in excel and perform ETL in Power Query.
+Use power query for cleaning the datsets in which I deal with null values, wrong values, duplicate values and trimming extra spaces.
+Build the data model inside Power Pivot in which established the relationship between facts and dimensions tables.
+Create the date dimension table and fiscal year using power query M-Language
+Use Data Analysis Expression (DAX) function like SUM, DIVIDE, RELATED, CALCULATE, SUMX, DISTINCT for calculating appropriate measure and calculated columns.
+Learn the domain knowledge of finance and sales like Profit & Loss Statement.
 
-2. Market Performance vs. Target:
- A detailed report showcasing how market performance aligns with set targets, providing actionable insights for strategic decisions.
+My learnings,
 
-3. P & L Statement by Fiscal Year (2019-2021):
- A comprehensive dive into profit and loss statements, contrasting 2020 and 2021 for nuanced analysis.
+🌟 Data Cleaning and Combining: Learned techniques to clean and prepare data, ensuring accuracy and consistency. Acquired the ability to combine data from multiple sources for comprehensive analysis.
 
-4. P & L Statements by Markets:
- Breaking down net sales, COGS, gross margin, and gross margin percentage by markets, offering a granular view of financial performance.
+🌟 Applying Business Math and Statistics: Proficient in applying essential mathematical and statistical concepts to analyze and interpret data effectively, revealing valuable insights.
 
-5. Monthly P & L Statements:
- A meticulous examination of profit and loss on a monthly basis, enabling real-time tracking of financial trends
+🌟 Data Transformation using Power Query: Leveraged the power of Power Query to perform complex data transformations, such as filtering, merging, and aggregating, enabling seamless data preparation for analysis.
 
-💰 Finance Analytics Highlights:
+🌟 Working with Pivot Tables and Power Pivot: Excel's Pivot Tables and Power Pivot became indispensable tools for summarizing, analyzing, and visualizing data. Developed expertise in creating dynamic reports and performing calculations.
 
-1. Total Sales Comparison (2019-2021):
- Unveiling the growth trajectory by dissecting total sales in 2019, 2020, and 2021.
+🌟 Delving into Sales Analytics and Financial Analytics: Explored Excel's capabilities in sales and financial analysis, allowing me to track performance, identify trends, and generate insightful reports for informed decision-making.
 
-2. Market Performance vs. Target:
- A detailed report showcasing how market performance aligns with set targets, providing actionable insights for strategic decisions.
-
-3. P & L Statement by Fiscal Year (2019-2021):
- A comprehensive dive into profit and loss statements, contrasting 2020 and 2021 for nuanced analysis.
-
-4. P & L Statements by Markets:
- Breaking down net sales, COGS, gross margin, and gross margin percentage by markets, offering a granular view of financial performance.
-
-5. Monthly P & L Statements:
- A meticulous examination of profit and loss on a monthly basis, enabling real-time tracking of financial trends
-
-🛠️ Tools/Features Used:
-- Microsoft Excel
-- Power Query for data cleaning and transformation
-- Power Pivot for data modeling
-- Pivot Tables for data summarization
-- DAX Measures for calculated columns
-- Conditional Formatting to highlight key data points
-
-📚 Knowledge Gained:
-- Data Cleaning
-- Data Representation
-- Business Domain Knowledge
-- Business Insights
-- Data-Driven Decision Making
+🌟 Real-time Business Application expertise: Applied Excel in real-time business scenarios, including Project Priority Matrix for effective project management and Scenario Planning for analyzing potential outcomes based on different assumptions.
 
 👏 Acknowledgments: 
 
