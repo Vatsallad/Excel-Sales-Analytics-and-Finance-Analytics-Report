@@ -1,6 +1,5 @@
 **Excel Report: AtliQ Hardware Sales & Finance Analysis**
-
-In this project, I created reports in Excel for AtliQ Hardware's finance and sales departments to assist both teams in making crucial decisions for expanding their business and enhancing their market presence globally.
+ In this project, I created reports in Excel for AtliQ Hardware's finance and sales departments to assist both teams in making crucial decisions for expanding their business and enhancing their market presence globally.
 
 **Finance Report 📊**
 
