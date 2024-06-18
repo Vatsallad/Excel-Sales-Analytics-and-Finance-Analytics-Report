@@ -39,10 +39,10 @@ AtliQ Hardware, a leading supplier of computer hardware and peripherals globally
  A meticulous examination of profit and loss on a monthly basis, enabling real-time tracking of financial trends
 
 🛠️ Tools/Features Used:
-• Microsoft Excel
-• Power Query for data cleaning and transformation
-• Power Pivot for data modeling
-• Pivot Tables for data summarization
+- Microsoft Excel
+- Power Query for data cleaning and transformation
+- Power Pivot for data modeling
+ -Pivot Tables for data summarization
 • DAX Measures for calculated columns
 • Conditional Formatting to highlight key data points
 
