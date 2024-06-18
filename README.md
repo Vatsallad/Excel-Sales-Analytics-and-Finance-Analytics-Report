@@ -28,7 +28,9 @@ Tasks Performed
 🧮 DAX Functions: Used Data Analysis Expressions (DAX) functions like SUM, DIVIDE, RELATED, CALCULATE, SUMX, and DISTINCT to calculate appropriate measures and 
 columns.
 
+
 📚 Domain Knowledge: Learned about finance and sales domain knowledge, such as Profit & Loss Statements.
+
 
 📘 Insights Gained,
 
@@ -49,6 +51,7 @@ columns.
 
 🌟 Real-time Business Application Expertise: Applied Excel in real-time business scenarios, including Project Priority Matrix for effective project management and 
  Scenario Planning for analyzing potential outcomes based on different assumptions.
+
 
 📣 Acknowledgments 
 
