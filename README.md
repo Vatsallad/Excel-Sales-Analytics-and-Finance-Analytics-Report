@@ -1,8 +1,8 @@
-Excel Report: AtliQ Hardware Sales & Finance Analysis
+**Excel Report: AtliQ Hardware Sales & Finance Analysis**
 
 In this project, I created reports in Excel for AtliQ Hardware's finance and sales departments to assist both teams in making crucial decisions for expanding their business and enhancing their market presence globally.
 
-Finance Report 📊
+**Finance Report 📊**
 
 I prepared a Profit & Loss statement, including:
 - Net Sales
@@ -12,11 +12,11 @@ I prepared a Profit & Loss statement, including:
 
 These metrics were calculated for a particular fiscal year, as well as specific months and quarters.
 
-Sales Report 📈
+**Sales Report 📈**
 
 I prepared the Customer Performance Report and Market Performance Report, focusing on specific regions, divisions, and countries.
 
-Tasks Performed ✅
+**Tasks Performed ✅**
 
 📥 Importing Datasets: Imported datasets into Excel and performed ETL (Extract, Transform, Load) using Power Query.
 
@@ -28,11 +28,11 @@ Tasks Performed ✅
 
 🧮 DAX Functions: Used Data Analysis Expressions (DAX) functions like SUM, DIVIDE, RELATED, CALCULATE, SUMX, and DISTINCT to calculate appropriate measures and columns.
 
-Domain Knowledge 📚
+**Domain Knowledge 📚**
 
 Learned about finance and sales domain knowledge, such as Profit & Loss Statements.
 
-Insights Gained 📘 
+**Insights Gained 📘** 
 
 🌟 Data Cleaning and Combining: I honed techniques for meticulous data cleaning and preparation, ensuring both accuracy and consistency. I also mastered the art of combining data from various sources to enable comprehensive analysis.
 
@@ -46,6 +46,6 @@ Insights Gained 📘
 
 🌟 Real-time Business Application Expertise: I applied Excel in real-world business scenarios, including creating a Project Priority Matrix for efficient project management and conducting Scenario Planning to analyze potential outcomes based on various assumptions.
 
-📣 Acknowledgments
+**Acknowledgments 📣** 
 
 This project was part of the Data Analytics Bootcamp, "Excel - The Mother of Business Intelligence," led by Dhaval Patel and Hemanand Vadivel. Special thanks to them and the Codebasics team for their support and excellent content.
