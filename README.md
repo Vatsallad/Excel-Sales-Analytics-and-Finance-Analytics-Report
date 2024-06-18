@@ -15,7 +15,7 @@ These metrics were calculated for a particular fiscal year, as well as specific 
 
 I prepared the Customer Performance Report and Market Performance Report, focusing on specific regions, divisions, and countries.
 
-Tasks Performed
+✅ Tasks Performed
 
 📥 Importing Datasets: Imported datasets into Excel and performed ETL (Extract, Transform, Load) using Power Query.
 
