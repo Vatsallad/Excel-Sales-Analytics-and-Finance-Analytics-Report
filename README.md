@@ -39,7 +39,6 @@ AtliQ Hardware, a leading supplier of computer hardware and peripherals globally
  A meticulous examination of profit and loss on a monthly basis, enabling real-time tracking of financial trends
 
 🛠️ Tools/Features Used:
-
 • Microsoft Excel
 • Power Query for data cleaning and transformation
 • Power Pivot for data modeling
@@ -48,9 +47,11 @@ AtliQ Hardware, a leading supplier of computer hardware and peripherals globally
 • Conditional Formatting to highlight key data points
 
 📚 Knowledge Gained:
-
 • Data Cleaning
 • Data Representation
 • Business Domain Knowledge
 • Business Insights
 • Data-Driven Decision Making
+
+👏 Acknowledgments: 
+This project was part of the Data Analytics Bootcamp, "Excel - The Mother of Business Intelligence," led by Dhaval Patel sir and Hemanand Vadivel sir. Special thanks to them and the Codebasics team for their support and excellent content.
