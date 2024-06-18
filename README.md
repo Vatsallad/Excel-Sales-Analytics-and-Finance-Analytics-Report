@@ -1,4 +1,4 @@
-# Excel-Sales-Analytics-and-Finance-Analytics-Report
+**Excel Project : AtliQ Hardware Sales & Finance Analysis** 
 🔍 Project Overview:
 AtliQ Hardware, a leading supplier of computer hardware and peripherals globally, tasked me with creating sales and financial reports to evaluate their market performance for 2019, 2020, and 2021. Here's what I accomplished:
 
@@ -34,7 +34,7 @@ AtliQ Hardware, a leading supplier of computer hardware and peripherals globally
 5. Monthly P & L Statements:
  A meticulous examination of profit and loss on a monthly basis, enabling real-time tracking of financial trends
 
-🛠️ Tools/Features Used:
+##🛠️ Tools/Features Used:
 • Microsoft Excel
 • Power Query for data cleaning and transformation
 • Power Pivot for data modeling
@@ -42,7 +42,7 @@ AtliQ Hardware, a leading supplier of computer hardware and peripherals globally
 • DAX Measures for calculated columns
 • Conditional Formatting to highlight key data points
 
-📚 Knowledge Gained:
+##📚 Knowledge Gained:
 • Data Cleaning
 • Data Representation
 • Business Domain Knowledge
